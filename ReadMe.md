@@ -30,15 +30,15 @@ A bot to fetch tweets from Twitter (Twitter API) with provided search term and c
 
     ```time.Sleep(8 * time.second)```
   
-  ![get all tweets using time sleep](images%5CScreenshot%202022-05-18%20025037.png)
+  ![get all tweets](images%5CScreenshot%202022-05-18%20025037.png)
 
 ## How to
 
 - rename .env.example to .env and paste BearerToken and set isProd to true
-![set .env file](images%5CScreenshot%202022-05-18%20033723.png)
+![set env file](images%5CScreenshot%202022-05-18%20033723.png)
 
 - to run the Bot from the terminal in the root folder try ``` gin -p 8080 run . ```
 
 ## Bot sample response
 
-![Bot response](images%5CScreenshot%202022-05-18%20023028.png)
+![Bot-response](images%5CScreenshot%202022-05-18%20023028.png)
