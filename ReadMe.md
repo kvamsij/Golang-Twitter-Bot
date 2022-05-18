@@ -24,7 +24,7 @@ A bot to fetch tweets from Twitter (Twitter API) with provided search term and c
 
 - following logics were tried to fetch tweets
 
-  - to fetch tweets by requesting once![get 15 tweets with just one request](images%5CScreenshot%202022-05-18%20025230.png)
+  - to fetch tweets by requesting once![15 tweets request](images/Screenshot%202022-05-18%20025230.png)
 
   - to fetch all tweets for a given query string using time sleep. Took about 15min with
 
