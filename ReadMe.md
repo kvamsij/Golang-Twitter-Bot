@@ -42,5 +42,5 @@ A bot to fetch tweets from Twitter (Twitter API) with provided search term and c
 - to run the Bot from the terminal in the root folder try ``` gin -p 8080 run . ```
 
 ## Bot sample response
-
+    BotResponse
     ![BotResponse](images%5CScreenshot%202022-05-18%20023028.png)
